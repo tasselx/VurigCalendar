@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0F0F4FA9-3A60-4E36-9ED2-F0BEFBA047E8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Vurig Calendar</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9AC3B0C4-B899-4CA0-9A0B-35F4395851DA</key>
+		<string>https://dev.talebase.com/svn/cepin/ios/trunk/Demo/VurigCalendar</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Vurig Calendar.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9AC3B0C4-B899-4CA0-9A0B-35F4395851DA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>9AC3B0C4-B899-4CA0-9A0B-35F4395851DA</key>
+		<string>https://dev.talebase.com/svn/cepin</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://dev.talebase.com/svn/cepin/ios/trunk/Demo/VurigCalendar/Vurig%20Calendar.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9AC3B0C4-B899-4CA0-9A0B-35F4395851DA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9AC3B0C4-B899-4CA0-9A0B-35F4395851DA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>VurigCalendar</string>
+		</dict>
+	</array>
+</dict>
+</plist>
