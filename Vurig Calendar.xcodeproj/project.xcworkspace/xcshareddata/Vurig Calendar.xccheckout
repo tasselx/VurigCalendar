@@ -10,34 +10,29 @@
 	<string>Vurig Calendar</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>9AC3B0C4-B899-4CA0-9A0B-35F4395851DA</key>
-		<string>https://dev.talebase.com/svn/cepin/ios/trunk/Demo/VurigCalendar</string>
+		<key>F43014BE858BB91F1B2AD031DD0C65045659D88F</key>
+		<string>https://github.com/tasselx/VurigCalendar.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Vurig Calendar.xcodeproj/project.xcworkspace</string>
+	<string>Vurig Calendar.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>9AC3B0C4-B899-4CA0-9A0B-35F4395851DA</key>
+		<key>F43014BE858BB91F1B2AD031DD0C65045659D88F</key>
 		<string>../..</string>
 	</dict>
-	<key>IDESourceControlProjectRepositoryRootDictionary</key>
-	<dict>
-		<key>9AC3B0C4-B899-4CA0-9A0B-35F4395851DA</key>
-		<string>https://dev.talebase.com/svn/cepin</string>
-	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://dev.talebase.com/svn/cepin/ios/trunk/Demo/VurigCalendar/Vurig%20Calendar.xcodeproj</string>
+	<string>https://github.com/tasselx/VurigCalendar.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>9AC3B0C4-B899-4CA0-9A0B-35F4395851DA</string>
+	<string>F43014BE858BB91F1B2AD031DD0C65045659D88F</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.subversion</string>
+			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>9AC3B0C4-B899-4CA0-9A0B-35F4395851DA</string>
+			<string>F43014BE858BB91F1B2AD031DD0C65045659D88F</string>
 			<key>IDESourceControlWCCName</key>
 			<string>VurigCalendar</string>
 		</dict>

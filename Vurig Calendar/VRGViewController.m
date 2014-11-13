@@ -24,10 +24,10 @@
 	// Do any additional setup after loading the view, typically from a nib.
     
     
-    monthLabel=[[UILabel alloc] initWithFrame:CGRectMake(0, 64, 320, 44)];
-    monthLabel.text=@"2014年4月";
-    [self.view addSubview:monthLabel];
-    [monthLabel release];
+//    monthLabel=[[UILabel alloc] initWithFrame:CGRectMake(0, 64, 320, 44)];
+//    monthLabel.text=@"2014年4月";
+//    [self.view addSubview:monthLabel];
+//    [monthLabel release];
     
     calendar = [[VRGCalendarView alloc] init];
     //[calendar setFrame:CGRectMake(0, 108, 320, 400)];不要在外部设置frame

@@ -672,7 +672,7 @@
 
 #pragma mark - Init
 -(id)init {
-    self = [super initWithFrame:CGRectMake(0, 0, kVRGCalendarViewWidth, 0)];
+    self = [super initWithFrame:CGRectMake(0, 64, kVRGCalendarViewWidth, 0)];
     if (self) {
         self.contentMode = UIViewContentModeTop;
         self.clipsToBounds=YES;
